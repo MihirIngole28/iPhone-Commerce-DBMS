@@ -1,3 +1,5 @@
+iPhone Commerce DBMS
+
 Phase 1: Created a problem statement with business-oriented data and functional requirements from Apple’s perspective to a Database Administrator for data modeling and support through a database management system (DBMS)
 
 Phase 2: Developed an Extended Entity-Relationship (EER) diagram from the problem statement, mapped the EER to relational schemas and normalized the resulting relations to Boyce-Codd normal form (BCNF)
