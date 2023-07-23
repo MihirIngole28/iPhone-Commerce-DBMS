@@ -6,6 +6,6 @@
 
 **Phase 3:** Transformed the relations into tables in a Relational database management system (RDBMS) by using DDL and DML
 
-**Phase 4:** Constructed complex SQL ad-hoc queries to satisfy the business requirements presented in the problem statement
+**Phase 4:** Constructed complex **SQL** ad-hoc queries to satisfy the business requirements presented in the problem statement
 
-**Phase 5:** Developed a front-end application using Python that interfaces with the oracle DBMS at backend.
+**Phase 5:** Developed a front-end application using **Python** that interfaces with the oracle DBMS at backend.
